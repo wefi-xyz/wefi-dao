@@ -80,8 +80,8 @@ contract VotingEscrow is Ownable, ReentrancyGuard {
     address public controller;
     bool public transfersEnabled;
 
-    string public constant name = "veSTG";
-    string public constant symbol = "veSTG";
+    string public constant name = "veWEFI";
+    string public constant symbol = "veWEFI";
     string public constant version = "1.0.0";
     uint8 public constant decimals = 18;
 
